@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Environment variables file
+.env
+.env.*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Misc
+.DS_Store

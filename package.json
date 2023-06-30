@@ -1,0 +1,28 @@
+{
+  "name": "@admn/ip-asset-mint",
+  "version": "0.1.0",
+  "description": "An set of open-source javascript/typescript tools for minting intellectual property rights to the blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADMN-LLC/ip-asset-mint.git"
+  },
+  "keywords": [
+    "ip",
+    "crypto",
+    "blockchain",
+    "ada"
+  ],
+  "author": "ADMN",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ADMN-LLC/ip-asset-mint/issues"
+  },
+  "homepage": "https://github.com/ADMN-LLC/ip-asset-mint#readme",
+  "dependencies": {
+    "@meshsdk/core": "^1.5.4"
+  }
+}
